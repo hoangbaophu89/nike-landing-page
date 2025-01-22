@@ -1,0 +1,15 @@
+{
+    "navigationFallback": {
+      "rewrite": "index.html",
+      "exclude": ["/static/media/*.{png,jpg,jpeg,gif,bmp}", "/static/css/*"]
+    },
+    "mimeTypes": {
+      ".json": "text/json"
+    },
+    "globalHeaders": {
+      "Content-Security-Policy": "frame-ancestors 'self'; upgrade-insecure-requests",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Permissions-Policy": "autoplay=()"
+    }
+  }
+  

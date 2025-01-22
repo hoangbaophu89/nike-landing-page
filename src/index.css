@@ -56,7 +56,6 @@
     @apply font-montserrat text-slate-gray text-lg leading-7;
   }
 }
-@charset "UTF-8";
 .oc-widget {
   position: fixed;
   bottom: 0px;
