@@ -37,7 +37,7 @@ const App = () => (
     <div id="oc-widget" className="oc-widget">
     <iframe
      className="widget-iframe"
-      src="https://red-mushroom-0be233b00.5.azurestaticapps.net/public/chatbot/chat/612ed49b-7c55-427a-bc49-2632e33e08fe" />
+      src="https://red-mushroom-0be233b00.5.azurestaticapps.net/public/chatbot/chat/5d2bab89-d9df-4937-b06a-c10fb142b739" />
   </div>
   </main>
 );
