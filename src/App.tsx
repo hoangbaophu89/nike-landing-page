@@ -33,12 +33,11 @@ const App = () => (
       <section key={index} className={className}>
         {component}
       </section>
-    ))}
+    ))}  
     <div id="oc-widget" className="oc-widget">
-    <iframe
-     className="widget-iframe"
-      src="https://red-mushroom-0be233b00.5.azurestaticapps.net/public/chatbot/chat/5d2bab89-d9df-4937-b06a-c10fb142b739" />
-  </div>
+        <iframe className="widget-iframe" src="https://apps.peterson-solutions.com/public/chatbot/chat/8351cefe-5075-421b-9157-3e2efd6280be">
+         </iframe>
+    </div>
   </main>
 );
 
